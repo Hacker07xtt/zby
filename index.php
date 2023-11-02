@@ -22,9 +22,9 @@ $username = $update["message"]["from"]["username"];
 $message = $update["message"]["text"];
 $messageId = $update["message"]["message_id"];
 //$pm = $message['reply_to_message']['text'];
-$bowner = "<a href='t.me/cyberxbd'>CyberXBD</a>";
+$bowner = "<a href='t.me/COBRA_X_Y_Z'>COBRAx</a>";
 //$header = "CYBERXBD";
-$mail = 'MrXdragon'.random_strings(6).'';
+$mail = 'CobraX'.random_strings(6).'';
 $pass = random_strings(8);
 $user = "<a href='tg://user?id=$userId'>$username</a>";
 /*
@@ -106,7 +106,7 @@ else
 }
 //========[OWNER DATA]===//
 
-  if (($userId == "5813794105") || ($userId == "1087968824"))
+  if (($userId == "2070450796") || ($userId == "5852269476"))
   {
     $role = "OWNER";
   }
